@@ -129,7 +129,15 @@ p {
 
 @media screen and (max-width: 844px) {
   .container {
+    box-sizing: border-box;
     height: 100%;
     width: 100%;
+    padding: 25px;
+    border: none;
+    border-radius: 20px;
+    /* box-sizing: border-box; */
+    /* align-items: center; */
+    background-color: rgb(17, 17, 17);
+    color: white;
   }
 } ;
