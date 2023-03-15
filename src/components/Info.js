@@ -1,4 +1,4 @@
-import men from "../image/men.jpg";
+import men from "../image/akash4.jpg";
 import emailLogo from "../image/email.png";
 import linkedinLogo from "../image/linkedin.png";
 import "../App.css";

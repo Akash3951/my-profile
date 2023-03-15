@@ -145,8 +145,8 @@ p {
   .info-img {
     height: 230px;
     width: 230px;
-    border-radius: 50%;
-    transform: translate(20%);
+    border-radius: 100%;
+    transform: translate(25%);
   }
 
   .about-section > p,
