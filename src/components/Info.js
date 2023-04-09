@@ -1,4 +1,3 @@
-import men from "../image/akash4.jpg";
 import emailLogo from "../image/email.png";
 import linkedinLogo from "../image/linkedin.png";
 import "../App.css";
@@ -14,8 +13,6 @@ const linkedin = function () {
 export default function Info() {
   return (
     <div className="info-section">
-      <img src={men} alt="profile-pic" className="info-img" />
-      <div className="info-text">
         <h2 className="name">Akash Gupta</h2>
         <h5 className="skill">Frontend Developer</h5>
         <h6 className="location">Bihar, India</h6>
@@ -34,7 +31,7 @@ export default function Info() {
             <bold>Linkedin</bold>
           </button>
         </div>
-      </div>
+      
     </div>
   );
 }
