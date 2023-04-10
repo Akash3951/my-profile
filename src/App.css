@@ -155,19 +155,54 @@ p {
     padding: 3% 5%;
     border: none;
     border-radius: 0px;
-    background-color: rgb(17, 17, 17);
-    color: white;
+   
   }
 
-  /* .info-img {
-    height: 230px;
-    width: 230px;
+  .profile-img{
+    height: 34%;
+    width: 72%;
+    
+  }
+
+  .img {
+    height:100%;
+    width: 100%;
     border-radius: 100%;
-    transform: translate(25%);
-  } */
+  }
+
+  .btn {
+    height: 29px;
+    width: 45%;
+    cursor: pointer;
+    border-radius: 5px;
+    border: none;
+  }
+
+  .info-section {
+    height: 16%;
+  }
+
+  /*about--section*/
+.about-section {
+  height: 17%;
+  margin-top:4%;
+}
+
+/*skill--section*/
+.skill-section {
+  height: 14%;
+  margin-top: 3%;
+}
 
   .about-section > p,
   .skill-section > ul {
     font-size: 0.88em;
   }
+
+  .footer-section{
+    /* margin-top:7%; */
+    height: 12%
+  }
 } ;
+
+
