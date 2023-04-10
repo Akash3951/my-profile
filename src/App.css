@@ -95,7 +95,7 @@ p {
 .about-heading,
 .skill-heading{
   font-size: large;
-  color: rgb(206, 206, 206);
+  color: rgb(168, 164, 164);
 }
 
 .about-section > p,
@@ -119,7 +119,8 @@ p {
 
 .footer-heading{
   margin: 1%;
-  font-weight: lighter;
+  font-weight:lighter;
+  font-size: larger;
   color: rgb(167, 167, 167);
   /* border: 1px solid green; */
 }
@@ -161,6 +162,7 @@ p {
   .profile-img{
     height: 34%;
     width: 72%;
+    margin-bottom: 2%;
     
   }
 
@@ -194,9 +196,14 @@ p {
   margin-top: 3%;
 }
 
+.about-heading,
+.skill-heading{
+  font-size: larger;
+}
+
   .about-section > p,
   .skill-section > ul {
-    font-size: 0.88em;
+    font-size: 0.95em;
   }
 
   .footer-section{
