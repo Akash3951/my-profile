@@ -169,7 +169,7 @@ p {
   .img {
     height:100%;
     width: 100%;
-    border-radius: 100%;
+    border-radius: 50%;
   }
 
   .btn {
@@ -198,7 +198,7 @@ p {
 
 .about-heading,
 .skill-heading{
-  font-size: larger;
+  font-size:22px;
 }
 
   .about-section > p,
@@ -207,7 +207,7 @@ p {
   }
 
   .footer-section{
-    /* margin-top:7%; */
+    margin-top:5%;
     height: 12%
   }
 } ;
