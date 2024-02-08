@@ -5,9 +5,9 @@ export default function Skill() {
     <div className="skill-section">
       <h2 className="skill-heading">Skills</h2>
       <ul className="skill-details">
-        <li className="skill">Frontend Dev (Html, Css, Javascript, React).</li>
-        <li className="skill">Backend Dev (MERN stack).</li>
-        <li className="skill">Java, C++, Sql.</li>
+        <li className="skill">Python, Flask, Sql, Machine Learning, Statistics.</li>
+        <li className="skill">EDA (Numpy, pandas, matplotlib, Seaborn).</li>
+        <li className="skill">Frontend Dev (Html, Css, Bootstrap, Javascript, React)</li>
       </ul>
     </div>
   );

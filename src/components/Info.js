@@ -14,7 +14,7 @@ export default function Info() {
   return (
     <div className="info-section">
         <h2 className="name">Akash Gupta</h2>
-        <h5 className="skill">Frontend Developer</h5>
+        <h5 className="skill">Data Scientist</h5>
         <h6 className="location">Bihar, India</h6>
 
         <div className="info-btn">

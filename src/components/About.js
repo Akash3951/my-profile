@@ -7,7 +7,10 @@ export default function About() {
       <p className="about--details">
         {/* Hello, my name is Akash, and I am a frontend developer. I enjoy creating
         visually appealing websites that deliver seamless user experiences. */}
-        Hi there! I'm a Full-Stack Engineer with a passion for building innovative and impactful software solutions.  I've honed my skills in coding, testing, and deploying applications that are both user-friendly and efficient.
+        Hi there! I'm a Full-Stack Python engineer with a passion for building
+        innovative and impactful software solutions. I've honed my skills in
+        coding, data analysis, and deploying applications that are both
+        user-friendly and efficient.
       </p>
     </div>
   );
